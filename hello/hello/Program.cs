@@ -14,7 +14,8 @@ class Program
      */
     static void Bonjour()
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Hello, World" +
+            "!");
     }
 
     /**
